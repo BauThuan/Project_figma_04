@@ -488,7 +488,7 @@ body {
   width: 284px;
   height: 582px;
   background-color: #f3f8fc;
-  border-radius: 35px 35px 25px 2 5px;
+  border-radius: 35px 35px 25px 25px;
   border: 8px solid #fcfcfc;
 }
 .knot-one-phone {
